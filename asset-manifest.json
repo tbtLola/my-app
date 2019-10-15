@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.aeb7a8bd.chunk.css",
+    "main.js": "/my-app/static/js/main.a3665377.chunk.js",
+    "main.js.map": "/my-app/static/js/main.a3665377.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.ed6f54cb.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.ed6f54cb.js.map",
+    "static/js/2.4838dd46.chunk.js": "/my-app/static/js/2.4838dd46.chunk.js",
+    "static/js/2.4838dd46.chunk.js.map": "/my-app/static/js/2.4838dd46.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.71254ac7833cb41eb13f91625e2453cc.js": "/my-app/precache-manifest.71254ac7833cb41eb13f91625e2453cc.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.aeb7a8bd.chunk.css.map": "/my-app/static/css/main.aeb7a8bd.chunk.css.map",
+    "static/media/Heading.css": "/my-app/static/media/BebasNeue-Regular.54413459.ttf",
+    "static/media/App.css": "/my-app/static/media/CS-portfolio-background.55ae5400.jpg"
+  }
+}
