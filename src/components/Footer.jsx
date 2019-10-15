@@ -1,8 +1,9 @@
 import React from "react";
 import Flexbox from "flexbox-react";
+import './Footer.css';
 
 const Footer = props => (
-  <Flexbox element="footer" height="60px">
+  <Flexbox className="Footer" element="footer" height="60px">
     Footer
   </Flexbox>
 );

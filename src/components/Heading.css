@@ -1,8 +1,16 @@
+@font-face {
+    font-family: 'BebasNeue';
+    src: url('./BebasNeue-Regular.ttf');
+}
 .Heading {
-    margin: 40px;
-    border: 5px dotted pink;
+    border: solid red;
+    flex-grow: 0.3;
   }
 
 .Title {
-    color:blue;
+    
+    margin: auto;
+    font-family: BebasNeue;
+    font-size: 500%;
+    text-decoration: underline;
 }
