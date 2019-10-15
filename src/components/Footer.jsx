@@ -7,5 +7,5 @@ const Footer = props => (
     Footer
   </Flexbox>
 );
-
+//test changes
 export default Footer;
