@@ -1,0 +1,8 @@
+.mainApp {
+  background-image: url('CS-portfolio-background.jpg');
+  background-size: 100%;
+  background-color: rgba(255,255,255,0.8);
+  background-blend-mode: lighten;
+  /* background-repeat: no-repeat; */
+}
+
