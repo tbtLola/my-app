@@ -4,13 +4,28 @@
 }
 .Heading {
     border: solid red;
-    flex-grow: 0.3;
-  }
+    flex-grow: 0.5;
+}
 
 .Title {
-    
     margin: auto;
     font-family: BebasNeue;
     font-size: 500%;
     text-decoration: underline;
 }
+
+div.item {
+    margin: auto;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 240px;
+}
+
+img {
+    border-radius: 4px;
+    padding: 5px;
+    width: 155px;
+    height: 155px;
+    margin: auto
+  }
