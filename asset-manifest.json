@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/my-app/static/js/main.fd5506be.chunk.js",
-    "main.js.map": "/my-app/static/js/main.fd5506be.chunk.js.map",
+    "main.js": "/my-app/static/js/main.1b3c5414.chunk.js",
+    "main.js.map": "/my-app/static/js/main.1b3c5414.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.58a6d01e.js.map",
-    "static/js/2.b8440b5c.chunk.js": "/my-app/static/js/2.b8440b5c.chunk.js",
-    "static/js/2.b8440b5c.chunk.js.map": "/my-app/static/js/2.b8440b5c.chunk.js.map",
+    "static/js/2.6befecd2.chunk.js": "/my-app/static/js/2.6befecd2.chunk.js",
+    "static/js/2.6befecd2.chunk.js.map": "/my-app/static/js/2.6befecd2.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.0e79c044b1b4ef63fbecf5b00da244e7.js": "/my-app/precache-manifest.0e79c044b1b4ef63fbecf5b00da244e7.js",
+    "precache-manifest.a0cbae55d711536da422fb825f92d320.js": "/my-app/precache-manifest.a0cbae55d711536da422fb825f92d320.js",
     "service-worker.js": "/my-app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/my-app/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.b8440b5c.chunk.js.LICENSE.txt": "/my-app/static/js/2.b8440b5c.chunk.js.LICENSE.txt",
+    "static/js/2.6befecd2.chunk.js.LICENSE.txt": "/my-app/static/js/2.6befecd2.chunk.js.LICENSE.txt",
     "static/media/Archive-Regular.woff": "/my-app/static/media/Archive-Regular.71c52a94.woff",
     "static/media/BrokenAccControl2.png": "/my-app/static/media/BrokenAccControl2.d3373423.png",
     "static/media/BrokenAuthOne.png": "/my-app/static/media/BrokenAuthOne.890c9649.png",
@@ -30,14 +30,15 @@
     "static/media/XML2a.png": "/my-app/static/media/XML2a.cfdd7872.png",
     "static/media/XML2b.png": "/my-app/static/media/XML2b.b7532526.png",
     "static/media/XML2c.png": "/my-app/static/media/XML2c.3b0e6e13.png",
+    "static/media/splunkLogging.png": "/my-app/static/media/splunkLogging.40109de3.png",
     "static/media/sqlinjectionOne.png": "/my-app/static/media/sqlinjectionOne.3e957e32.png",
     "static/media/xxeHTML.png": "/my-app/static/media/xxeHTML.9426774e.png",
     "static/media/xxeXML.png": "/my-app/static/media/xxeXML.32fab3e1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58a6d01e.js",
-    "static/js/2.b8440b5c.chunk.js",
+    "static/js/2.6befecd2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.fd5506be.chunk.js"
+    "static/js/main.1b3c5414.chunk.js"
   ]
 }
